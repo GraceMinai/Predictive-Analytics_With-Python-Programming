@@ -1,6 +1,5 @@
 # Python-Working-with-Predictive-Analytics
 
-Instructor: Isil Berkun, Data Scientist at Intel Corp.
 
 > This is a LinkedIn course, that I took in December 2020.
 
